@@ -16,5 +16,7 @@
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiooliveira95&layout=compact&theme=radical)
 
 ###### 🚀 Projetos em Destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Arvore-Decisao-Ebac&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/fabiooliveira95/Arvore-Decisao-Ebac))
-
+🔹 [📊 Análise de Dados de Vendas](https://github.com/fabiooliveira95/metodologia-CRISP)  
+📌 Tecnologias: Python, pandas, Matplotlib  
+📖 Descrição: Um projeto de análise exploratória de vendas utilizando pandas e visualização de dados.  
+  

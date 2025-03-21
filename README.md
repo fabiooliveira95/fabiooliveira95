@@ -32,9 +32,7 @@
   <h1 align="center"> Linguagens, Frameworks e Libs usadas: </h1>
 </p>
 
-🔵Python
-
-<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+🔵Python<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 Numpy<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
 Pandas<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
 PostgreSQL<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">

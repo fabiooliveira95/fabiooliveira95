@@ -22,5 +22,6 @@
 
 
 ### Linguagens utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?fabiooliveira95&layout=compact&theme=tokyonight)](https://github.com/fabiooliveira95)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiooliveira95&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 

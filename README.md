@@ -22,4 +22,5 @@
 
 
 ### Linguagens utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiooliveira95layout=compact&theme=dark)](https://github.com/fabiooliveira95/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?fabiooliveira95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+

@@ -12,8 +12,6 @@
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-oliveira-araujo-cientista//)
 
-### Minhas Estatísticas no GitHub
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiooliveira95&layout=compact&theme=radical)
 
 ###### 🚀 Projetos em Destaque
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Arvore-Decisao-Ebac&theme=dark)](https://github.com/fabiooliveira95/Arvore-Decisao-Ebac)
@@ -21,7 +19,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Previsao-de-renda&theme=dark)](https://github.com/fabiooliveira95/Previsao-de-renda)
 
 
-### Linguagens utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiooliveira95&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
+### Minhas Estatísticas no GitHub
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiooliveira95&layout=compact&theme=radical)

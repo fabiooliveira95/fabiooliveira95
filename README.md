@@ -10,7 +10,8 @@
 - ⚡ "Eu amo fazer caminhadas, corridas e pedalar, atividades que me ajudam a manter o foco e a criatividade no trabalho."
 
 ### Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-oliveira-araujo-a7b422311/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-oliveira-araujo-cientista//)
+
 
 ### Minhas Estatísticas no GitHub
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiooliveira95&layout=compact&theme=radical)

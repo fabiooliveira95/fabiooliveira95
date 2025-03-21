@@ -10,7 +10,7 @@
 <h1 align="center">Se conecte comigo: 📬</h1>
 <div>
     <a href="https://www.linkedin.com/in/fabio-oliveira-araujo-cientista/" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:harlei.akira@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red"></a>
+    <a href = "mailto:Fabiooliveira@hotmail.com"><img align="left" src="https://img.shields.io/badge/hotmail-D14836?style=for-the-badge&logo=hotmaill&logoColor=red"></a>
     <a href = "mailto:harlei.akira@outlook.com"><img align="left" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
     <a href = "https://snack.expo.dev/@harleiaki/tenacious-milkshake"><img align="left" src="https://img.shields.io/badge/Snack-ffffff?style=for-the-badge&logo=react&logoColor=blue"></a>
     <a href = "https://github.com/harleiaki"><img align="left" src="https://img.shields.io/badge/GitHub-323232?style=for-the-badge&logo=github&logoColor=black"></a>

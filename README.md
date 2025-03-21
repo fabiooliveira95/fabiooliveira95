@@ -41,7 +41,7 @@ SQLite<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devi
 Anaconda<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg">
 Jupyter<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
 Matplotlib<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg">
-Power BI<img height="25" width="25" src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg">
+Power BI<img height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
 Excel<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 Git<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 GitHub<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">

@@ -41,8 +41,7 @@ SQLite<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devi
 Anaconda<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg">
 Jupyter<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
 Matplotlib<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg">
-Power BI<img height="25" width="25" src="  https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain
-">
+Power BI<img height="25" width="25" src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg">
 Excel<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 Git<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 GitHub<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">

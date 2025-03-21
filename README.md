@@ -12,6 +12,8 @@
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-oliveira-araujo-cientista//)
 
-
 ### Minhas Estatísticas no GitHub
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiooliveira95&layout=compact&theme=radical)
+
+### Projetos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrogithub1406&repo=Analise-de-Credito.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

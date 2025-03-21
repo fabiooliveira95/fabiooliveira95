@@ -18,3 +18,4 @@
 ###### 🚀 Projetos em Destaque
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Arvore-Decisao-Ebac&theme=dark)](https://github.com/fabiooliveira95/Arvore-Decisao-Ebac)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=metodologia-CRISP&theme=dark)](https://github.com/fabiooliveira95/metodologia-CRISP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Previsao-de-renda&theme=dark)](https://github.com/fabiooliveira95/Previsao-de-renda)

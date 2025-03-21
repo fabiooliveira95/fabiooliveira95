@@ -1,6 +1,6 @@
 # Olá! Eu sou o Fabio Oliveira
 
-### Sobre mim
+###### Sobre Fabio
 - 🔭 "Atualmente, trabalho em um projeto de Ciência de Dados que utiliza Python para analisar dados financeiros e criar visualizações interativas.".
   
 - 🌱 "Atualmente, estou aprendendo sobre Machine Learning com a biblioteca Scikit-learn."

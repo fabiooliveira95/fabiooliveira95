@@ -16,4 +16,4 @@
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiooliveira95&layout=compact&theme=radical)
 
 ### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Analise-de-Credito&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=github.com/fabiooliveira95/Analise-de-Credito&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

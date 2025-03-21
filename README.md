@@ -21,3 +21,11 @@
 
 ### Minhas Estatísticas no GitHub
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiooliveira95&layout=compact&theme=radical)
+
+
+
+🔵Python<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  Numpy<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  Pandas<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  PostgreSQL<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  Anaconda<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" >

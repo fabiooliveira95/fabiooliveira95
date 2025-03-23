@@ -45,6 +45,7 @@ Power BI<img height="25" width="25" src="https://upload.wikimedia.org/wikipedia/
 Excel<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 Git<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 GitHub<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+Heroku <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg">
 
                                   
 🟢SQL: S3/Athena.

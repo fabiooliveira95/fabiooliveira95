@@ -22,8 +22,6 @@
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [📈 DataScience-Ebac](https://github.com/fabiooliveira95/DataScience-Ebac) | Análise e modelagem preditiva com regressão linear | Python, Pandas, Scikit-learn |
-| [📊 Dashboard de Vendas Power BI](#) _(em breve)_ | Visualização interativa de KPIs de vendas | Power BI, DAX, Power Query |
-| [📂 SQL Mentorama](#) _(em andamento)_ | Práticas de consultas SQL e modelagem | MySQL, SQLite, Oracle |
 
 > *(Atualizo constantemente com novos projetos à medida que avanço nos estudos e na prática.)*
 

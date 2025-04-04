@@ -12,7 +12,7 @@
 
 - **Linguagens**: Python (Avançado), SQL (Intermediário), VBA  
 - **Bibliotecas Python**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **BI e Visualização**: Power BI, Excel Avançado (Tabelas, Macros, VBA), Adobe Analytics  
+- **BI e Visualização**: Power BI, Excel (Tabelas, Macros, VBA), Adobe Analytics  
 - **Outros**: Git/GitHub, CRISP-DM, Streamlit
 
 ---

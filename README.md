@@ -22,6 +22,7 @@
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [📈 DataScience-Ebac](https://github.com/fabiooliveira95/DataScience-Ebac) | Análise e modelagem preditiva com regressão linear | Python, Pandas, Scikit-learn |
+| [📈 Analise-de-Credito](https://github.com/fabiooliveira95/Analise-de-Credito) | Análise de Crédito Bancário | Python, Pandas, Scikit-learn |
 
 > *(Atualizo constantemente com novos projetos à medida que avanço nos estudos e na prática.)*
 

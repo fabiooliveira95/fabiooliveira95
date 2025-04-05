@@ -38,5 +38,3 @@
 
 ---
 
-⭐ Obrigado por visitar meu perfil! Se curtir meus projetos, sinta-se à vontade para dar uma estrela ⭐ ou me chamar pra trocar ideia!
-

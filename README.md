@@ -24,6 +24,8 @@
 | [📈 DataScience-Ebac](https://github.com/fabiooliveira95/DataScience-Ebac) | Análise e modelagem preditiva com regressão linear | Python, Pandas, Scikit-learn |
 | [📈 Analise-de-Credito](https://github.com/fabiooliveira95/Analise-de-Credito) | Análise de Crédito Bancário | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook |
 | [📈 Comportamento-do-Consumidor-de-E-Commerce](https://github.com/fabiooliveira95/Comportamento-do-Consumidor-de-E-Commerce) | Comportamento-do-Consumidor-de-E-Commerce | Python, Pandas, Numpy, Matplotlib, Seaborn (visualização de dados), Jupyter Notebook |
+| [📈 telemarketing](https://github.com/fabiooliveira95/telemarketing) | Projeto Telemarketing – Predição de Adesão a Produtos Bancários | Python 3.x, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost |
+
 
 > *(Atualizo constantemente com novos projetos à medida que avanço nos estudos e na prática.)*
 

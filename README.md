@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência de Dados pela Estácio  
 📚 Formação complementar pela EBAC e Mentorama  
-📊 Apaixonado por análise de dados, machine learning e visualização  
+📊 Apaixonado por ciência de dados., machine learning e visualização  
 🔍 Transformando dados em insights com Python, SQL e BI  
 🚀 Em busca de oportunidades como Cientista de Dados Júnior ou Estagiário
 

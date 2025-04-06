@@ -1,6 +1,6 @@
 # Olá, eu sou o Fábio Oliveira!
 
-* Estudante de Ciência de Dados pela Estácio
+* Formado em Ciência de Dados pela Estácio
 * Formação complementar pela EBAC e Mentorama
 * Apaixonado por ciência de dados., machine learning e visualização
 * Transformando dados em insights com Python, SQL e BI

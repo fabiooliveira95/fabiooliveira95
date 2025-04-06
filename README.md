@@ -40,8 +40,7 @@
 > *(Atualizo constantemente com novos projetos à medida que avanço nos estudos e na prática.)*
 
 ---
-
-## Onde me encontrar
+## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fabiooliveira95-blue?logo=linkedin)](https://www.linkedin.com/in/fabiooliveira95)
 [![GitHub](https://img.shields.io/badge/GitHub-@fabiooliveira95-181717?logo=github)](https://github.com/fabiooliveira95)

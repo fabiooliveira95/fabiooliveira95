@@ -36,3 +36,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-@fabiooliveira95-181717?logo=github)](https://github.com/fabiooliveira95)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabio_95oliveira/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red)](mailto:harlei.fabiooliveira067@gmail.com)
+[![Microsoft](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:fabiooliveira0067@hotmail.com)

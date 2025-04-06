@@ -34,4 +34,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fabiooliveira95-blue?logo=linkedin)](https://www.linkedin.com/in/fabiooliveira95)
 [![GitHub](https://img.shields.io/badge/GitHub-@fabiooliveira95-181717?logo=github)](https://github.com/fabiooliveira95)
-[![LinkedIn](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabio_95oliveira/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabio_95oliveira/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red)](mailto:harlei.fabiooliveira067@gmail.com)

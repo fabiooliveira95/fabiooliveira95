@@ -4,7 +4,7 @@
 
 📚 Formação complementar pela EBAC e Mentorama
 
-📊 Apaixonado por ciência de dados., machine learning e visualização
+📊 Apaixonado por ciência de dados, machine learning e visualização
 
 🔍 Transformando dados em insights com Python, SQL e BI
 

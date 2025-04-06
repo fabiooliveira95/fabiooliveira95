@@ -12,9 +12,9 @@
 
 ## 🛠️ Habilidades Técnicas
 
-- **Linguagens**: Python (Avançado), SQL (Intermediário), VBA
+- **Linguagens**: Python (Avançado), SQL (Intermediário)
 - **Bibliotecas Python**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **BI e Visualização**: Power BI, Excel (Tabelas, Macros, VBA), Adobe Analytics
+- **BI e Visualização**: Power BI, Excel
 - **Outros**: Git/GitHub, CRISP-DM, Streamlit
 
 ---

@@ -1,6 +1,6 @@
 <h1 align="center"> Sejam bem-vindos ao Github. Eu sou o Fabio. 🚀</h1>
 
-🧑‍🎓 Em formação em Ciência de Dados..
+🧑‍🎓 Formado em Ciência de Dados.
 
 📖 Estudante de Ciencias de Dados e Inteligência Artificial.
 

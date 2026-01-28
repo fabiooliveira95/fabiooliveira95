@@ -43,7 +43,7 @@
 🔵 **Python** <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">  
 📊 **Numpy** <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">  
 📊 **Pandas** <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-📈 Power BI <img height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+📈 **Power BI** <img height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
 🗄️ **PostgreSQL / MySQL / SQLite**  
 🐍 **Anaconda / Jupyter**  
 📈 **Matplotlib / Power BI / Excel**  

@@ -46,7 +46,7 @@
 📈 **Power BI** <img height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
 🗄️ **PostgreSQL / MySQL / SQLite**  
 🐍 **Anaconda / Jupyter**  
-📈 **Matplotlib / Power BI / Excel**  
+📈 **Matplotlib / Excel**  
 🔧 **Git / GitHub / Heroku**  
 🟢 **SQL: S3 / Athena**
 

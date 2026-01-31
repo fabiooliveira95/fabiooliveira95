@@ -1,13 +1,12 @@
-<h1 align="center">👋 Bem-vindo ao meu GitHub! Eu sou o Fabio 🚀</h1>
+<h1 align="center">👋 Sejam bem-vindos ao meu Github! Eu sou o Fabio 🚀</h1>
 
-🎓 **Formado em Ciência de Dados**  
+🧑‍🎓 **Formado em Ciência de Dados**  
 📖 Estudante de **Ciência de Dados e Inteligência Artificial**  
-💡 Apaixonado por transformar dados em soluções inteligentes  
-📊 Interesses: Árvores de decisão, Visualização de dados, Padronização, Big Data, Machine Learning e Inteligência Artificial  
+📊 Interesses: Árvore de decisão, Visualização de dados, Padronização, Big Data, Machine Learning e Inteligência Artificial  
 
 ---
 
-<h2 align="center">📬 Conecte-se comigo</h2>
+<h1 align="center">📬 Se conecte comigo</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/fabio-oliveira-araujo-cientista/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -25,7 +24,7 @@
 
 ---
 
-<h2 align="center">💻 Ferramentas de Programação</h2>
+<h1 align="center">💻 Programando em</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
   <img src="https://img.shields.io/badge/JetBrains-blueviolet.svg">
@@ -37,24 +36,25 @@
 
 ---
 
-<h2 align="center">🛠️ Linguagens, Frameworks e Bibliotecas</h2>
+<h1 align="center">🛠️ Linguagens, Frameworks e Libs</h1>
+
 <div align="center">
 
 🔵 **Python** <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">  
 📊 **Numpy** <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">  
-📊 **Pandas** <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">  
-📈 **Power BI** <img height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">  
+📊 **Pandas** <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+📈 **Power BI** <img height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
 🗄️ **PostgreSQL / MySQL / SQLite**  
 🐍 **Anaconda / Jupyter**  
 📈 **Matplotlib / Excel**  
 🔧 **Git / GitHub / Heroku**  
-🟢 **SQL: S3 / Athena**  
+🟢 **SQL: S3 / Athena**
 
 </div>
 
 ---
 
-<h2 align="center">📊 Estatísticas do Perfil</h2>
+<h1 align="center">📊 Estatísticas do Perfil</h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiooliveira95&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=fabiooliveira95&theme=tokyonight&count_private=true&include_all_commits=true" />
@@ -63,19 +63,12 @@
 
 ---
 
-<h2 align="center">⚙️ Projetos em Destaque</h2>
+<h1 align="center">⚙️ Projetos</h1>
 <div align="center">
-
+  
 [![Streamlit](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Streamlit&theme=tokyonight)](https://github.com/fabiooliveira95/Streamlit)  
 [![DataScience-Ebac](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=DataScience-Ebac&theme=gruvbox)](https://github.com/fabiooliveira95/DataScience-Ebac)  
 [![Regressao-Logistica](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Regressao-Logistica&theme=gruvbox)](https://github.com/fabiooliveira95/Regressao-Logistica)  
 [![Previsao-de-Renda](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Previsao-de-Renda&theme=synthwave)](https://github.com/fabiooliveira95/Previsao-de-Renda)  
 
 </div>
-
----
-
-<h2 align="center">✨ Sobre mim</h2>
-
-Sou um cientista de dados em constante aprendizado, buscando aplicar **Inteligência Artificial e Machine Learning** para resolver problemas reais.  
-Sempre aberto a colaborações e novos desafios. Vamos conversar! 🚀

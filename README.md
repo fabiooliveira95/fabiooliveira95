@@ -83,16 +83,16 @@ Anaconda • Git • GitHub • Heroku
 ## ⚙️ Projetos em Destaque
 <div align="center">
 
-[![Streamlit](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Streamlit&theme=tokyonight)](https://github.com/fabiooliveira95/Streamlit)  
+[![PowerBI-portifolio](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Streamlit&theme=tokyonight)](https://github.com/fabiooliveira95/PowerBI-portifolio)  
 **Dashboard interativo com Streamlit** para análise exploratória e visualização de indicadores.
 
-[![DataScience-Ebac](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=DataScience-Ebac&theme=gruvbox)](https://github.com/fabiooliveira95/DataScience-Ebac)  
+[![sql-database-projects](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=DataScience-Ebac&theme=gruvbox)](https://github.com/fabiooliveira95/sql-database-projects)  
 **Projetos práticos do curso de Data Science (EBAC)**.
 
-[![Regressao-Logistica](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Regressao-Logistica&theme=gruvbox)](https://github.com/fabiooliveira95/Regressao-Logistica)  
+[![ecommerce-customer-behavior](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Regressao-Logistica&theme=gruvbox)](https://github.com/fabiooliveira95/ecommerce-customer-behavior)  
 **Regressão logística aplicada a e-commerce**.
 
-[![Previsao-de-Renda](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Previsao-de-Renda&theme=synthwave)](https://github.com/fabiooliveira95/Previsao-de-Renda)  
+[![logistic-regression-model](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Previsao-de-Renda&theme=synthwave)](https://github.com/fabiooliveira95/logistic-regression-model)  
 **Modelo preditivo para estimativa de renda**.
 
 </div>

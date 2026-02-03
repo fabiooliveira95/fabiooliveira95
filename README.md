@@ -83,17 +83,12 @@ Anaconda • Git • GitHub • Heroku
 ## ⚙️ Projetos em Destaque
 <div align="center">
 
-[![PowerBI-portifolio](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Streamlit&theme=tokyonight)](https://github.com/fabiooliveira95/PowerBI-portifolio)  
-**Dashboard interativo com Streamlit** para análise exploratória e visualização de indicadores.
+[![PowerBI-portifolio](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=PowerBI-portifolio&theme=tokyonight)](https://github.com/fabiooliveira95/PowerBI-portifolio)
+[![credit-risk-analysis](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=PowerBI-Analise-Comercial&theme=tokyonight)](https://github.com/fabiooliveira95/credit-risk-analysis)
 
-[![sql-database-projects](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=DataScience-Ebac&theme=gruvbox)](https://github.com/fabiooliveira95/sql-database-projects)  
-**Projetos práticos do curso de Data Science (EBAC)**.
+[![ecommerce-customer-behavior](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=PowerBI-Indicadores&theme=tokyonight)](https://github.com/fabiooliveira95/ecommerce-customer-behavior)
+[![logistic-regression-model](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=PowerBI-Vendas-Mensais&theme=tokyonight)](https://github.com/fabiooliveira95/logistic-regression-model)
 
-[![ecommerce-customer-behavior](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Regressao-Logistica&theme=gruvbox)](https://github.com/fabiooliveira95/ecommerce-customer-behavior)  
-**Regressão logística aplicada a e-commerce**.
-
-[![logistic-regression-model](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Previsao-de-Renda&theme=synthwave)](https://github.com/fabiooliveira95/logistic-regression-model)  
-**Modelo preditivo para estimativa de renda**.
 
 </div>
 

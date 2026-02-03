@@ -65,10 +65,17 @@
 
 <h1 align="center">⚙️ Projetos</h1>
 <div align="center">
-  
-[![PowerBI-portifolio](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Streamlit&theme=tokyonight)](https://github.com/fabiooliveira95/PowerBI-portifolio)  
+
+[![Streamlit](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Streamlit&theme=tokyonight)](https://github.com/fabiooliveira95/Streamlit)  
+*Dashboard interativo com Streamlit para análise de dados.*
+
 [![DataScience-Ebac](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=DataScience-Ebac&theme=gruvbox)](https://github.com/fabiooliveira95/DataScience-Ebac)  
+*Projetos desenvolvidos durante o curso de Data Science da EBAC.*
+
 [![Regressao-Logistica](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Regressao-Logistica&theme=gruvbox)](https://github.com/fabiooliveira95/Regressao-Logistica)  
+*Modelo de regressão logística aplicado ao comportamento de clientes em e-commerce.*
+
 [![Previsao-de-Renda](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Previsao-de-Renda&theme=synthwave)](https://github.com/fabiooliveira95/Previsao-de-Renda)  
+*Modelo preditivo para estimar renda baseado em variáveis socioeconômicas.*
 
 </div>

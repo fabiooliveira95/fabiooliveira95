@@ -1,15 +1,29 @@
-<h1 align="center">👋 Sejam bem-vindos ao meu Github! Eu sou o Fabio 🚀</h1>
+<h1 align="center">Olá! Eu sou o Fábio Oliveira 👋</h1>
 
-🧑‍🎓 **Formado em Ciência de Dados**  
-📖 Estudante de **Ciência de Dados e Inteligência Artificial**  
-📊 Interesses: Árvore de decisão, Visualização de dados, Padronização, Big Data, Machine Learning e Inteligência Artificial  
+<p align="center">
+Cientista de Dados | Analista de Dados | Data Analytics
+</p>
 
 ---
 
-<h1 align="center">📬 Se conecte comigo</h1>
+## 👨‍💻 Sobre mim
+
+Sou **formado em Ciência de Dados** e atualmente estudo **Ciência de Dados e Inteligência Artificial**, com foco em transformar dados em insights que apoiam a tomada de decisão.
+
+Tenho interesse e experiência nas áreas de:
+- Análise e visualização de dados  
+- Machine Learning e modelos preditivos  
+- Padronização e tratamento de dados  
+- Business Intelligence (BI)  
+- Big Data e Analytics  
+
+---
+
+## 📬 Conecte-se comigo
+
 <div align="center">
   <a href="https://www.linkedin.com/in/fabio-oliveira-araujo-cientista/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:harlei.fabiooliveira067@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -17,46 +31,52 @@
   <a href="mailto:fabiooliveira0067@hotmail.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
-  <a href="https://github.com/fabiooliveira95">
-    <img src="https://img.shields.io/badge/GitHub-323232?style=for-the-badge&logo=github&logoColor=white">
-  </a>
 </div>
 
 ---
 
-<h1 align="center">💻 Programando em</h1>
+## 🛠️ Tecnologias e Ferramentas
+
+### Linguagens & Dados
+- **Python**
+- **SQL** (PostgreSQL, MySQL, SQLite)
+- **Excel**
+
+### Bibliotecas & Frameworks
+- Pandas  
+- NumPy  
+- Matplotlib  
+
+### BI & Analytics
+- Power BI  
+- Modelagem de dados  
+- Criação de dashboards e relatórios gerenciais  
+
+### Ambientes & Ferramentas
+- Jupyter Notebook  
+- Google Colab  
+- Anaconda  
+- Git & GitHub  
+
+---
+
+## 💻 Ambientes de Desenvolvimento
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
-  <img src="https://img.shields.io/badge/JetBrains-blueviolet.svg">
-  <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
 </div>
 
 ---
 
-<h1 align="center">🛠️ Linguagens, Frameworks e Libs</h1>
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-🔵 **Python** <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">  
-📊 **Numpy** <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">  
-📊 **Pandas** <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-📈 **Power BI** <img height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-🗄️ **PostgreSQL / MySQL / SQLite**  
-🐍 **Anaconda / Jupyter**  
-📈 **Matplotlib / Excel**  
-🔧 **Git / GitHub / Heroku**  
-🟢 **SQL: S3 / Athena**
-
-</div>
-
----
-
-<h1 align="center">📊 Estatísticas do Perfil</h1>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiooliveira95&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiooliveira95&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabiooliveira95&theme=tokyonight&hide_border=false&stroke=0000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiooliveira95&layout=compact&theme=tokyonight" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=fabiooliveira95&show_icons=true&theme=tokyonight" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabiooliveira95&theme=tokyonight" />
 </div>

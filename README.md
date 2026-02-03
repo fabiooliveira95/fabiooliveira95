@@ -66,7 +66,7 @@
 <h1 align="center">⚙️ Projetos</h1>
 <div align="center">
   
-[![Streamlit](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Streamlit&theme=tokyonight)](https://github.com/fabiooliveira95/Streamlit)  
+[![PowerBI-portifolio](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Streamlit&theme=tokyonight)](https://github.com/fabiooliveira95/Streamlit)  
 [![DataScience-Ebac](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=DataScience-Ebac&theme=gruvbox)](https://github.com/fabiooliveira95/DataScience-Ebac)  
 [![Regressao-Logistica](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Regressao-Logistica&theme=gruvbox)](https://github.com/fabiooliveira95/Regressao-Logistica)  
 [![Previsao-de-Renda](https://github-readme-stats.vercel.app/api/pin/?username=fabiooliveira95&repo=Previsao-de-Renda&theme=synthwave)](https://github.com/fabiooliveira95/Previsao-de-Renda)  
